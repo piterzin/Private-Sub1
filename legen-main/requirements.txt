@@ -1,0 +1,9 @@
+deep_translator
+ffmpeg_progress_yield
+openai_whisper
+pysrt
+torch
+tqdm
+whisper
+vidqa
+git+https://github.com/norival-lab/whisperX.git
